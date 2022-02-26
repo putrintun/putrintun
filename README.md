@@ -1,4 +1,4 @@
-<h1 align="center">Hi Pretty, I'am Intan Putri !</h1>
+<h1 align="center">Hi, I'am Intan Putri Setyowati !</h1>
 <h3 align="center">Computer Technology and Informatics Students with Software Engineering Skills</h3>
 
 <h4 align="center">
