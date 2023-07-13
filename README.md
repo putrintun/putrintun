@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'am Intan Putri Setyowati !</h1>
-<h3 align="center">Computer Technology and Informatics Students with Software Engineering Skills</h3>
+<h3 align="center">Computer Technology and Informatics graduate with Software Engineering Skills</h3>
 
 <h4 align="center">
 contact me at <a href="intanptrsy@gmail.com">intanptrsy@gmail.com</a> or <a href="intanptrsy@icloud.com">intanptrsy@icloud.com</a>
